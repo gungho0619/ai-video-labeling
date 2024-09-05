@@ -156,3 +156,5 @@ Apart from usual tools like rectangle or brush, Supervisely comes with â€œsmartâ
 <img src="https://user-images.githubusercontent.com/12828725/173544099-d8c273d0-a31d-4455-b83e-8f3d8cd3d0a4.gif"/>
 
 </div>
+
+### Copyright 2024 by Flamingo.
